@@ -1,6 +1,6 @@
 server:
   port: DYNAMICPORT
-  address: https://lavalink-paradox.herokuapp.com/
+  address: https://lavalink-paradox.herokuapp.com
 spring:
   main:
     banner-mode: log
